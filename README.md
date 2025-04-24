@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ErfanH2006<br>👀 I’m interested in programming, especially Backend.<br>🌱 I’m currently learning Backend with Golang.<br>💞️ I’m looking to collaborate on<br>📫 How to reach me: @Erfanh13 on telegram
+👋 Hi, I’m @ErfanH2006<br>👀 I’m interested in programming, especially Backend.<br>🌱 I’m currently working Backend with Golang.<br>💞️ I’m looking to collaborate on too<br>📫 How to reach me: @Erfanh13 on telegram
 
 
 ## 🌐 Socials:
